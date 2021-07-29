@@ -1,0 +1,79 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.images img{
+        width: 100px;
+}
+/* header css */
+.head-bg-color{
+    background: #264653;
+}
+#button-color{
+    background: #E76F51;
+}
+.text-yellow{
+    color: #E76F51;
+}
+.text-gray{
+    color: gray;
+}
+.text-pink{
+    color: black;
+}
+.header-written p{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+} 
+.header-written h1{  
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 72px;
+
+} 
+/* section */
+/* 1st section part */
+.first-part-likha h1{
+    font-size: 32px;
+    font-weight: 600;
+    margin-top: 48px
+}
+.first-part-likha p{
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 44px;
+}
+.bike{
+    height: 243px;
+width: 288px;
+left: 37px;
+}
+
+/* 2nd section part  */
+.tag{
+  text-align: center;
+  margin-bottom: 91px;
+}
+
+/* star */
+.fa-star{
+    font-size: 12px;
+}
+.fa-star.filled{
+    color: #E76F51 ;
+}
+.fa-star.empty{
+    color:#AEAEAE ;
+}
+
+/*3rd section part */
+.tag2{
+
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 50px;
+    text-align: center;
+    margin-bottom: 130px;
+    margin-top: 30px;
+
+}
